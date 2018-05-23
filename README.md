@@ -1,0 +1,2 @@
+# WhatsDjangoModel
+通过有趣的电商系统实例展示Django框架中数据模型的使用方法
